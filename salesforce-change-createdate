@@ -1,0 +1,6 @@
+The user permission called ‘Set Audit Fields upon Record Creation’ allows setting audit fields,
+such as ‘Created Date’, ‘Created By’ and ‘Last Modified By’ when a user creates a record via API importing tools like Data Loader. 
+1 An administrator should first select the ‘Enable Set Audit Fields upon Record Creation and Update Records with Inactive Owners’ 
+organization-wide user permissions by navigating to ‘User Interface’ in Setup.
+2 After the organization-wide permissions are enabled, the ‘Set Audit Fields upon Record Creation’ permission can be granted to users with custom profiles.
+A permission set can also be used to grant this permission.
