@@ -2,3 +2,6 @@ skew 斜め
 If too many child records (such as contacts) are associated with the same parent account record,
 it can cause account data skew, which causes record locking and performance issues. In order to prevent this, child contacts related to a particular account can be distributed across multiple accounts, 
 by creating accounts for branches or offlce locations and using an account hierarchy to link them
+
+Canonical 正規的な
+
