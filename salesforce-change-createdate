@@ -4,3 +4,17 @@ such as ‘Created Date’, ‘Created By’ and ‘Last Modified By’ when a u
 organization-wide user permissions by navigating to ‘User Interface’ in Setup.
 2 After the organization-wide permissions are enabled, the ‘Set Audit Fields upon Record Creation’ permission can be granted to users with custom profiles.
 A permission set can also be used to grant this permission.
+
+Master Data Management 
+Compare and contrast the various techniques, approaches and considerations for implementing Master Data Management Solutions 
+(e.g., MDM implementation styles, harmonizing and consolidating data from multiple sources,
+establishing data survivorship rules, thresholds & weights, leveraging external reference data for enrichment, 
+Canonical modeling techniques, hierarchy management)
+
+Given a customer scenario, recommend and use techniques for establishing a "golden source of truth"/"system of record"
+for the customer domain.
+Given a customer scenario, recommend approaches and techniques for consolidating data attributes from multiple sources.
+Discuss the criteria and methodology for picking the winning attributes (data survivorship rules).
+
+DataloaderのSettingでBulkapiをチェックすると、一回2000件投入できる
+
